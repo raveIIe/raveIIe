@@ -13,7 +13,8 @@
     ㅤ ㅤ ㅤ $\small\color{#f7faff}{\textsf{rus/eng  ㅤ 　　 ⏑  ㅤ 　  c*h freely}}$ 
         </td>        
         <td>
-          <img align="center" width="200px" alt="image" src="https://file.garden/aOzMKcIeICuTJJmk/IMG_1059.PNG">
+          <img align="center" width="200px" alt="image" 
+           src="https://file.garden/aOzMKcIeICuTJJmk/IMG_1059.PNG">
         </td>
       </tr>
     </tbody>
