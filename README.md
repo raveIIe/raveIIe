@@ -25,7 +25,5 @@
 ○    ㅤ   ずぷ       ㅤ .  ㅤ     ꕀ    𓎠𓎠
 
 <div id="header" align="center">
-<img align="center" width="350px" salt="image" src="https://file.garden/aOzMKcIeICuTJJmk/IMG_1047.PNG">
 
-  ㅤ $\small\color{#f7faff}{\textsf{"do you believe in love at first sight?"}}$ <br> $\small\color{#f7faff}{\textsf{"do you believe  in fate?"}}$ <br>
- <a href="https://github.com/egqchan"><sub>- egqchan</a>
+
