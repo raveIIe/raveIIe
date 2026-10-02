@@ -9,7 +9,7 @@
     <tbody>
       <tr>
         <td>
-          ㅤ $\small\color{#f7faff}{\textsf{━╋}}$ $\small\color{#f7faff}{\textsf{( louis )}}$ $\small\color{#f7faff}{\textsf{ ㅤ ᧔ ᧓}}$ $\small\color{#f7faff}{\textsf{ ㅤ 　ྀ　18yo}}$ <br>
+          ㅤ $\small\color{#f7faff}{\textsf{━╋}}$ $\small\color{#f7faff}{\textsf{( ravelle )}}$ $\small\color{#f7faff}{\textsf{ ㅤ ᧔ ᧓}}$ $\small\color{#f7faff}{\textsf{ ㅤ 　ྀ　18yo}}$ <br>
     ㅤ ㅤ ㅤ $\small\color{#f7faff}{\textsf{rus/eng  ㅤ 　　 ⏑  ㅤ 　  c*h freely}}$ 
         </td>        
         <td>
